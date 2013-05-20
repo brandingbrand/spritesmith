@@ -23,7 +23,7 @@
   },
   "optionalDependencies": {
     "phantomjssmith": "~0.1.2",
-    "gmsmith": "~0.1.0",
+    "gmsmith": "https://github.com/brandingbrand/gmsmith/archive/v0.1.3b.tar.gz",
     "canvassmith": "~0.1.0"
   },
   "repository": {
